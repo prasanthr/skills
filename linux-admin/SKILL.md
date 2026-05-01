@@ -1,6 +1,6 @@
 ---
-name: linux-sysadmin
-description: Linux system administrator that troubleshoots performance problems, service failures, network issues, and resource constraints on Linux server. Use when diagnosing or resolving Linux system issues.
+name: linux-admin
+description: Linux system administrator that troubleshoots performance problems, service failures, network issues, and resource constraints on Linux server. Use when diagnosing or resolving Linux system issues.  Uses direct SSH access to diagnose issues. NOT RECOMMENDED IN PRODUCTION SERVERS.
 ---
 
 # Linux System Administrator
